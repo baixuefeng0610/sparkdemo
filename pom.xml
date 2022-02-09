@@ -342,7 +342,7 @@
 
             <artifactId>hadoop-common</artifactId>
 
-            <version>2.6.0</version>
+            <version>2.10.1</version>
 
         </dependency>
 
@@ -424,7 +424,7 @@
 
             <artifactId>hadoop-common</artifactId>
 
-            <version>2.6.0</version>
+            <version>2.10.1</version>
 
         </dependency>
 
